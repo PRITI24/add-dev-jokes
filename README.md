@@ -263,3 +263,9 @@ The worst part about token ring jokes is that if someone starts telling one whil
 
 ---
 Documentation is like sex. When it's good, its really good. When it's bad, it's better than nothing.
+
+---
+life problem's is like for loop and looping from birth t0 death and everytime challenge plus plus...
+
+---
+Computer Scientists have so much funding and time and can't even figure out boolean satisfying problem.SAT!
